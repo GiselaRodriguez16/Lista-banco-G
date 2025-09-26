@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758926902 source:c:\users\gisel\desktop\estructuras 2025\fila de banco\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
